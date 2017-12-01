@@ -1,0 +1,175 @@
+﻿Service Level 1,Service Level 2,Service Level 3,Service Level 4,Service Level 5,Azure Usage
+Networking,Application Gateway,Application Gateways,Basic Application Gateway - Medium,Basic Application Gateway - Medium,$180
+Networking,Application Gateway,Application Gateways,WAF Application Gateway - Medium,WAF Application Gateway - Medium,$2
+Networking,Application Gateway,Data Processing,Data Processing - Medium,Data Processing - Medium,$0
+Networking,Bandwidth,Bandwidth,Bandwidth - Geo Replication Data Transfer,Bandwidth - Geo Replication Data Transfer,$0
+Networking,Bandwidth,Bandwidth,Bandwidth - Inbound Data Transfer,Bandwidth - Inbound Data Transfer,$0
+Networking,Bandwidth,Bandwidth,Bandwidth - Outbound Data Transfer,Bandwidth - Outbound Data Transfer,$751
+Networking,ExpressRoute,ExpressRoute - Metered Data,Metered Data without Premium Add-On,200 MBPs Metered Data without Premium Add-On,$131
+Networking,ExpressRoute,ExpressRoute - Metered Data,Metered Inbound Data Transfer,Metered Inbound Data Transfer,$0
+Networking,ExpressRoute,ExpressRoute - Metered Data,Metered Outbound Data Transfer,Metered Outbound Data Transfer,$117
+Networking,ExpressRoute,ExpressRoute - Unlimited Data,Unlimited Data without Premium Add-On,500 MBPs Unlimited Data without Premium Add-On,$2475
+Networking,ExpressRoute,ExpressRoute - Unlimited Data,Unlimited Outbound Data Transfer,Unlimited Outbound Data Transfer,$0
+Networking,Traffic Manager,Traffic Manager,Traffic Manager - DNS Queries,Traffic Manager - DNS Queries,$0
+Networking,Traffic Manager,Traffic Manager,Traffic Manager - Health Checks,Traffic Manager - Azure Health Checks,$1
+Networking,Traffic Manager,Traffic Manager,Traffic Manager - Health Checks,Traffic Manager - External Health Checks,$1
+Networking,Virtual Network,Virtual Network - IP Addresses,Virtual Network - Instance level Public IP,Instance level Public IP Addresses,$35
+Networking,Virtual Network,Virtual Network - IP Addresses,Virtual Network - IP Address remaps,IP Address remaps,$0
+Networking,Virtual Network,Virtual Network - IP Addresses,Virtual Network - Reserved IP Addresses,Reserved IP Addresses,$505
+Networking,Virtual Network,VNET Peering,Inbound-VNET Peering,Inbound-VNET Peering,$1
+Networking,Virtual Network,VNET Peering,Outbound-VNET Peering,Outbound-VNET Peering,$1
+Networking,VPN Gateway,VPN Gateway,Basic VPN or ExpressRoute Gateway,Basic VPN or ExpressRoute Gateway,$207
+Networking,VPN Gateway,VPN Gateway,High Performance VPN or ExpressRoute Gateway,High Performance VPN or ExpressRoute Gateway,$2595
+Monitoring + Management,Azure Monitor,Azure Monitor,Azure Monitor - Notification,Azure Monitor-Emails,$0
+Monitoring + Management,Insight & Analytics,Insight and Analytics,Log Analytics,Log Analytics,$15903
+Monitoring + Management,Insight & Analytics,Insight and Analytics,OMS - Insight and Analytics,OMS - Insight and Analytics,$114
+Monitoring + Management,Insight & Analytics,Insight and Analytics,OMS - Insight and Security Data,OMS - Insight and Security Data,$0
+Media + CDN,Content Delivery Network,CDN,Standard CDN Outbound Data Transfers,Standard CDN Outbound Data Transfers,$0
+Management,Automation,Automation - Desired State Configuration (DSC),Desired State Configuration (DSC) - Basic,Desired State Configuration (DSC) - Basic,$0
+Management,Automation,Automation - Desired State Configuration (DSC),Desired State Configuration (DSC) - Free,Desired State Configuration (DSC) - Free,$0
+Management,Automation,Automation - Process Automation,Process Automation - Basic,Process Automation - Basic,$0
+Management,Automation,Automation - Process Automation,Process Automation - Free,Process Automation - Free,$0
+Management,Key Vault,Key Vault,Key Vault - Standard,Secrets and Software-protected keys,$0
+Management,Security Center,Security Center,Security Center - Free,Security Center - Free,$0
+Identity + Access Management,Multi-Factor Authentication,Multi-Factor Authentication,Multi-Factor Authentication - Per User,Multi-Factor Authentication - Per User,$2
+Enterprise Integration,Backup,Backup,Backup Storage,Backup Storage,$5326
+Enterprise Integration,Site Recovery,Site Recovery,Site Recovery to Azure,Site Recovery to Azure,$53
+Data + Storage,Azure Database for MySQL,Azure Database for MySQL,Azure Database for MySQL - Basic,Azure Database for MySQL - Basic Compute Unit,$14
+Data + Storage,Azure Database for MySQL,Azure Database for MySQL,Azure Database for MySQL - Standard,Azure Database for MySQL - Standard Compute Unit,$261
+Data + Storage,Redis Cache,Redis Cache,Redis Cache - Standard,C2 Standard Redis Cache,$151
+Data + Storage,SQL Database,Elastic SQL Database,Elastic SQL Database - Standard,Elastic SQL Database - Standard,$205
+Data + Storage,SQL Database,Single SQL Database,SQL Database - Basic,B SQL Basic DB,$33
+Data + Storage,SQL Database,Single SQL Database,SQL Database - Standard,S0 SQL Standard DB,$27
+Data + Storage,SQL Database,Single SQL Database,SQL Database - Standard,S1 SQL Standard DB,$27
+Data + Storage,SQL Database,Single SQL Database,SQL Database - Standard,S3 SQL Standard DB,$135
+Data + Storage,SQL Database,Threat Detection,Threat Detection,SQL Database - Threat Detection,$0
+Data + Storage,Storage,Blob Storage,Block Blobs Storage Access,GRS - Replicated Data Transfer,$0
+Data + Storage,Storage,Blob Storage,General Purpose Block Blobs Storage,GRS - General Purpose Block Blobs Storage,$12695
+Data + Storage,Storage,Blob Storage,General Purpose Block Blobs Storage,LRS - General Purpose Block Blobs Storage,$15
+Data + Storage,Storage,Blob Storage,General Purpose Block Blobs Storage Access,General Purpose Block Blob Delete Operations,$1
+Data + Storage,Storage,Blob Storage,General Purpose Block Blobs Storage Access,General Purpose Block Blob List Operations,$0
+Data + Storage,Storage,Blob Storage,General Purpose Block Blobs Storage Access,General Purpose Block Blob Read Operations,$7
+Data + Storage,Storage,Blob Storage,General Purpose Block Blobs Storage Access,General Purpose Block Blob Write Operations,$1
+Data + Storage,Storage,Blob Storage,General Purpose Block Blobs Storage Access,GRS - General Purpose Block Blob Write Operations,$1
+Data + Storage,Storage,Blob Storage,Hot Block Blobs Storage,RA-GRS - Hot Block Blobs Storage,$0
+Data + Storage,Storage,Blob Storage,Hot Block Blobs Storage Access,GRS - Hot Block Blob Write Operations,$0
+Data + Storage,Storage,Blob Storage,Hot Block Blobs Storage Access,Hot Block Blob Read Operations,$0
+Data + Storage,Storage,Blob Storage,Hot Block Blobs Storage Access,Hot Block Blob Write Operations,$0
+Data + Storage,Storage,Disk Storage,Premium Disks,LRS - Premium Snapshots Storage,$34
+Data + Storage,Storage,Disk Storage,Premium Disks,P10 - Premium Disks Storage,$9108
+Data + Storage,Storage,Disk Storage,Premium Disks,P20 - Premium Disks Storage,$22773
+Data + Storage,Storage,Disk Storage,Premium Disks,P30 - Premium Disks Storage,$19015
+Data + Storage,Storage,Disk Storage,Standard Disks,GRS - Standard Disks Storage,$1012
+Data + Storage,Storage,Disk Storage,Standard Disks,LRS - Standard Disks Storage,$2061
+Data + Storage,Storage,Disk Storage,Standard Disks,LRS - Standard Snapshots Storage,$1
+Data + Storage,Storage,Disk Storage,Standard Disks,RA-GRS - Standard Disks Storage,$74
+Data + Storage,Storage,Disk Storage,Standard Disks,S10 - Standard Managed Disks Storage,$36
+Data + Storage,Storage,Disk Storage,Standard Disks,S4 - Standard Managed Disks Storage,$5
+Data + Storage,Storage,Disk Storage,Standard Disks,S6 - Standard Managed Disks Storage,$5
+Data + Storage,Storage,Disk Storage,Standard Disks Storage Access,GRS - Page Blob Write Operations,$50
+Data + Storage,Storage,Disk Storage,Standard Disks Storage Access,Page Blob Delete Operations,$4
+Data + Storage,Storage,Disk Storage,Standard Disks Storage Access,Page Blob Read Operations,$12
+Data + Storage,Storage,Disk Storage,Standard Disks Storage Access,Page Blob Write Operations,$96
+Data + Storage,Storage,File Storage,File Storage Access,GRS - File Write Operations,$0
+Data + Storage,Storage,File Storage,File Storage Access,LRS - File List Operations,$0
+Data + Storage,Storage,File Storage,File Storage Access,LRS - File Protocol Operations,$0
+Data + Storage,Storage,File Storage,File Storage Access,LRS - File Read Operations,$0
+Data + Storage,Storage,File Storage,File Storage Access,LRS - File Write Operations,$0
+Data + Storage,Storage,File Storage,Standard File Storage,GRS - Standard File Storage,$1
+Data + Storage,Storage,File Storage,Standard File Storage,LRS - Standard File Storage,$1
+Data + Storage,Storage,Queue Storage,Queue Storage Access,Queue Storage Access Operations,$0
+Data + Storage,Storage,Table Storage,Standard Tables Storage,GRS - Standard Tables Storage,$137
+Data + Storage,Storage,Table Storage,Standard Tables Storage,LRS - Standard Tables Storage,$365
+Data + Storage,Storage,Table Storage,Standard Tables Storage,RA-GRS - Standard Tables Storage,$0
+Data + Storage,Storage,Table Storage,Table Storage Access,GRS - Table Write Operations,$0
+Data + Storage,Storage,Table Storage,Table Storage Access,Table Delete Operations,$0
+Data + Storage,Storage,Table Storage,Table Storage Access,Table Read Operations,$0
+Data + Storage,Storage,Table Storage,Table Storage Access,Table Scan Operations,$0
+Data + Storage,Storage,Table Storage,Table Storage Access,Table Write Operations,$0
+Data + Storage,StorSimple,StorSimple,StorSimple,StorSimple,$478
+Compute,Linux Virtual Machines,Non-Windows VMs,General Purpose Non-Windows Basic VMs,A0 Basic VM,$17
+Compute,Linux Virtual Machines,Non-Windows VMs,General Purpose Non-Windows Basic VMs,A1 Basic VM,$75
+Compute,Linux Virtual Machines,Non-Windows VMs,General Purpose Non-Windows Basic VMs,A2 Basic VM,$631
+Compute,Linux Virtual Machines,Non-Windows VMs,General Purpose Non-Windows Standard VMs,A0 Standard VM,$13
+Compute,Linux Virtual Machines,Non-Windows VMs,General Purpose Non-Windows Standard VMs,A1 Standard VM,$80
+Compute,Linux Virtual Machines,Non-Windows VMs,General Purpose Non-Windows Standard VMs,A2 Standard VM,$2433
+Compute,Linux Virtual Machines,Non-Windows VMs,Non-Windows VMs,B8m VM,$1
+Compute,Linux Virtual Machines,Non-Windows VMs,Optimized Compute Non-Windows VMs,D1 v2 VM,$289
+Compute,Linux Virtual Machines,Non-Windows VMs,Optimized Compute Non-Windows VMs,D1 VM,$79
+Compute,Linux Virtual Machines,Non-Windows VMs,Optimized Compute Non-Windows VMs,D11 v2 VM Promo,$714
+Compute,Linux Virtual Machines,Non-Windows VMs,Optimized Compute Non-Windows VMs,D12 v2 VM,$248
+Compute,Linux Virtual Machines,Non-Windows VMs,Optimized Compute Non-Windows VMs,D2 v2 VM,$289
+Compute,Linux Virtual Machines,Non-Windows VMs,Optimized Compute Non-Windows VMs,D2 v2 VM Promo,$281
+Compute,Linux Virtual Machines,Non-Windows VMs,Optimized Compute Non-Windows VMs,D2 v3 VM,$58
+Compute,Linux Virtual Machines,Non-Windows VMs,Optimized Compute Non-Windows VMs,D3 v2 VM,$963
+Compute,Linux Virtual Machines,Non-Windows VMs,Optimized Compute Non-Windows VMs,D3 VM,$255
+Compute,Linux Virtual Machines,Non-Windows VMs,Optimized Compute Non-Windows VMs,D4 v2 VM,$784
+Compute,Linux Virtual Machines,Non-Windows VMs,Optimized Compute Non-Windows VMs,D4 v3 VM,$2
+Compute,Linux Virtual Machines,Non-Windows VMs,Optimized Compute Non-Windows VMs,D8 v3 VM,$12
+Compute,Linux Virtual Machines,Non-Windows VMs,Optimized Compute Non-Windows VMs,F4 VM,$133
+Compute,Linux Virtual Machines,Non-Windows VMs,Optimized Compute Non-Windows VMs,F8 VM,$1065
+Compute,Linux Virtual Machines,Red Hat Enterprise Linux VMs,On-Demand RHEL images,Red Hat Enterprise VMs - 1 core,$233
+Compute,Linux Virtual Machines,Red Hat Enterprise Linux VMs,On-Demand RHEL images,Red Hat Enterprise VMs - 2 cores,$1419
+Compute,Linux Virtual Machines,Red Hat Enterprise Linux VMs,On-Demand RHEL images,Red Hat Enterprise VMs - 4 cores,$241
+Compute,Linux Virtual Machines,Red Hat Enterprise Linux VMs,On-Demand RHEL images,Red Hat Enterprise VMs - 8 cores,$174
+Compute,Windows Virtual Machines,SQL VMs,SQL VM - Enterprise,SQL Server Enterprise,$5022
+Compute,Windows Virtual Machines,SQL VMs,SQL VM - Enterprise,SQL Server Enterprise (8 core),$2009
+Compute,Windows Virtual Machines,SQL VMs,SQL VM - Standard,SQL Server Standard (16 core),$6428
+Compute,Windows Virtual Machines,SQL VMs,SQL VM - Standard,SQL Server Standard (8 core),$8874
+Compute,Windows Virtual Machines,SQL VMs,SQL VM - Standard,SQL Server Standard (up to 4 cores),$19363
+Compute,Windows Virtual Machines,SQL VMs,SQL VM - Web,SQL Server Web (8 core),$43
+Compute,Windows Virtual Machines,SQL VMs,SQL VM - Web,SQL Server Web (up to 4 cores),$21
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Basic VMs,A0 Basic Windows VM,$0
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Basic VMs,A1 Basic Windows VM,$142
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Basic VMs,A2 Basic Windows VM,$1747
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Basic VMs,A3 Basic Windows VM,$993
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Basic VMs,A4 Basic Windows VM,$1585
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Standard VMs,A1 Standard Windows VM,$697
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Standard VMs,A2 Standard Windows VM,$1326
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Standard VMs,A2mv2 Standard Windows VM,$246
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Standard VMs,A2v2 Standard Windows VM,$182
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Standard VMs,A3 Standard Windows VM,$5544
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Standard VMs,A4 Standard Windows VM,$2410
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Standard VMs,A4v2 Standard Windows VM,$766
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Standard VMs,A5 Standard Windows VM,$201
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Standard VMs,A6 Standard Windows VM,$883
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Standard VMs,A7 Standard Windows VM,$884
+Compute,Windows Virtual Machines,Windows VMs,General Purpose Windows Standard VMs,A8mv2 Standard Windows VM,$964
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D1 v2 Windows VM,$182
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D1 Windows VM,$1675
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D11 v2 Windows VM,$822
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D11 v2 Windows VM Promo,$523
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D11 Windows VM,$1105
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D12 v2 Windows VM,$9876
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D12 v2 Windows VM Promo,$3250
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D12 Windows VM,$6566
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D13 v2 Windows VM,$4583
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D13 v2 Windows VM Promo,$666
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D13 Windows VM,$3142
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D14 v2 Windows VM,$7067
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D14 Windows VM,$2827
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D2 v2 Windows VM,$2508
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D2 v2 Windows VM Promo,$1924
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D2 v3 Windows VM,$305
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D2 Windows VM,$4891
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D3 v2 Windows VM,$7110
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D3 v2 Windows VM Promo,$2268
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D3 Windows VM,$9376
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D4 v2 Windows VM,$3750
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D4 v3 Windows VM,$413
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D4 Windows VM,$3749
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,D5 v2 Windows VM,$1350
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,E2 v3 Windows VM,$5
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,F1 Windows VM,$15
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,F2 Windows VM,$259
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,F4 Windows VM,$2973
+Compute,Windows Virtual Machines,Windows VMs,Optimized Compute Windows VMs,F8 Windows VM,$237
+Compute,Windows Virtual Machines,Windows VMs,Windows VMs,B2 Windows VM,$9
+Compute,Windows Virtual Machines,Windows VMs,Windows VMs,B2m Windows VM,$45
+Compute,Windows Virtual Machines,Windows VMs,Windows VMs,B4m Windows VM,$0
+Compute,Windows Virtual Machines,Windows VMs,Windows VMs,B8m Windows VM,$0
+Analytics,Data Lake Store,Data Lake Store,Data Lake Store - Data Stored,Data Stored,$0
+Analytics,Data Lake Store,Data Lake Store,Data Lake Store - Transactions,Data Lake Transactions,$0
+Analytics,Machine Learning,Production Web API,Production Web API - Standard,S1 Standard API,$6
+Analytics,Machine Learning,Studio,Studio - Standard,ML Seat Subscription,$0
+Analytics,Machine Learning,Studio,Studio - Standard,ML Studio Usage,$0

@@ -1,0 +1,7 @@
+C:\Users\marcmc\OneDrive - Microsoft\Consumption Plans\ACR Compare\ACR Compare\ACRC\bin\Debug\ACRDiff.exe.config
+C:\Users\marcmc\OneDrive - Microsoft\Consumption Plans\ACR Compare\ACR Compare\ACRC\bin\Debug\ACRDiff.exe
+C:\Users\marcmc\OneDrive - Microsoft\Consumption Plans\ACR Compare\ACR Compare\ACRC\bin\Debug\ACRDiff.pdb
+C:\Users\marcmc\OneDrive - Microsoft\Consumption Plans\ACR Compare\ACR Compare\ACRC\obj\Debug\ACRDiff.csprojResolveAssemblyReference.cache
+C:\Users\marcmc\OneDrive - Microsoft\Consumption Plans\ACR Compare\ACR Compare\ACRC\obj\Debug\ACRDiff.csproj.CoreCompileInputs.cache
+C:\Users\marcmc\OneDrive - Microsoft\Consumption Plans\ACR Compare\ACR Compare\ACRC\obj\Debug\ACRDiff.exe
+C:\Users\marcmc\OneDrive - Microsoft\Consumption Plans\ACR Compare\ACR Compare\ACRC\obj\Debug\ACRDiff.pdb
